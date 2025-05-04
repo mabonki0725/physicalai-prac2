@@ -1,6 +1,8 @@
 [core]
-    remote = myremote
+    remote = myremoter
 ['remote "localremote"']
     url = /home/ubuntu/dvc_storage
 ['remote "myremote"']
     url = ../gdrive:ai_robot
+['remote "myremoter"']
+    url = /home/ubuntu/dvc_storage
